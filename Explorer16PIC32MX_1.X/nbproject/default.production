@@ -1,0 +1,1 @@
+ -mprocessor=32MX360F512L -o dist/default/production/Explorer16PIC32MX_1.X.production.elf build/default/production/main.o build/default/production/test1.o build/default/production/test2.o  -Wl,--defsym=__MPLAB_BUILD=1,--no-check-sections,--gc-sections
